@@ -1,0 +1,8 @@
+1. h1 tag missing on the div tag
+2. div and p tags Indentation
+3. Remove Instructions
+4. Add img tag to upload the images 
+5. Write JS functions
+6. Click event missing quotes
+7. Change Layouts
+8. Inlcude numbering using li tag
